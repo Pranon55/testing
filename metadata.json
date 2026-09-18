@@ -1,0 +1,6 @@
+{
+  "name": "Formal Atmosphere Controller",
+  "description": "A formal presentation application featuring interactive 5-second snowflake descent and balloon ascent animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
